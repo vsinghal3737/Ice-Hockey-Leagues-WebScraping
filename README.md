@@ -1,22 +1,6 @@
 # Ice-Hockey-Leagues-WebScraping
 ## ASU Software Engineering Capstone Team 
 
-Web Scraping on Ice Hockey Legues [SHL, KHL, LIIGA]
-
-
-### Team Members
-- Srivan Reddy Gutha
-- Sumanth Paranjape
-- Madhukar Raj
-- Vaibhav Singhal
-- Sajith Thattazhi
-
-### New Features
-- Installed bitnami postgresql addon on AWS EC2 instance
-- Re-configure  the domain settings for rosterdata server
-- Many UX enhancement
-- Added new leagues using Web Scraping on SHL, LIIGA, KHL leagues
-
 ### Web Scraping
 - WebScraping a new directory is added in the project, which is scraping 3 Ice Hockey Leagues, SHL, LIIGA, KHL leagues
 - Scrapy, a web scraping framework is used and psycopg2 is used to push scraped data into AWS PostgreSQL Database

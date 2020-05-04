@@ -1,0 +1,20 @@
+shl
+
+League Data: https://www.shl.se/statistik/tabell?season=2019&gameType=regular
+	Teams = {'TeamName': [TeamData]}
+	TeamData = ['Rank', 'Lag', 'GP', '3p', '2p', '1p', '0p', 'G', 'GA', '+/-', 'Points']
+
+Team Data: https://www.shl.se/lag/1a71-1a71gTHKh__lulea-hockey/statistics
+	TeamData =  {'TeamName': [[PlayerData]...]}
+	PlayerData = ['Spelare', 'Pos', 'GP', 'G', 'A', 'TP', 'PIM', 'GWG', 'PPG', 'SOG', 'Hits', 'BkS', '+', '-', '+/-', 'TOI/GP']
+
+
+
+liiga
+League Data: https://liiga.fi/fi/tilastot/2019-2020/runkosarja/joukkueet/
+	Teams = {'TeamName': [TeamData]}
+	TeamData = ['Team', 'O', 'V', 'T', 'H', 'TM', 'PM', 'LP', 'P', 'P/O', 'YV%', 'AV%']
+
+Team Data: https://liiga.fi/fi/tilastot/2019-2020/runkosarja/pelaajat/
+	allPlayers =  {'TeamName': [[PlayerData]...]}
+	PlayerData = ['Name', 'Team', 'PP', 'O', 'M', 'S', 'P', 'R', '+', '-', '±', 'YV', 'AV', 'VM', 'L', 'L%', 'A', 'A%', 'Time']

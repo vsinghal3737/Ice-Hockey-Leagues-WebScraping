@@ -3,7 +3,6 @@ Automat==20.2.0
 backcall==0.1.0
 beautifulsoup4==4.8.2
 betamax==0.8.1
-bleach==3.1.0
 bs4==0.0.1
 certifi==2020.4.5.1
 cffi==1.14.0
@@ -79,7 +78,6 @@ terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.3
 traitlets==4.3.3
-Twisted==19.10.0
 urllib3==1.25.9
 w3lib==1.21.0
 wcwidth==0.1.8

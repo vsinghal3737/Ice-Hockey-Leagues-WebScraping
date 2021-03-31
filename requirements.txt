@@ -34,7 +34,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.6.1
-lxml==4.5.0
+lxml==4.6.3
 MarkupSafe==1.1.1
 mistune==0.8.4
 more-itertools==8.0.2
